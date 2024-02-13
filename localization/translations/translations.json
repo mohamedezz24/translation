@@ -3,17 +3,7 @@
         "languageCode": "en",
         "name": "English"
     }, {
-        "languageCode": "de",
-        "name": "German"
-    }, {
         "languageCode": "ar",
         "name": "Arabic"
-
-    }, {
-        "languageCode": "sq",
-        "name": "Albanian"
-    }, {
-        "languageCode": "af",
-        "name": "Afrikaans"
     }]
 }
